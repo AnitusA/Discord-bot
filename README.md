@@ -7,3 +7,6 @@ This bot is used to check the peron is posing a progress in a discord cahhel it 
 ----
 
 This is my first Discoed bot build with the help of ai 
+
+
+---
